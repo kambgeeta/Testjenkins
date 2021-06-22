@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-15T09:41:23 IST" name="Default suite" finished-at="2021-06-15T09:41:35 IST" duration-ms="11652">
+    <groups>
+    </groups>
+    <test started-at="2021-06-15T09:41:23 IST" name="Default test" finished-at="2021-06-15T09:41:35 IST" duration-ms="11652">
+      <class name="Testsample">
+        <test-method signature="testEasy()[pri:0, instance:Testsample@35dab4eb]" started-at="2021-06-15T09:41:23 IST" name="testEasy" finished-at="2021-06-15T09:41:35 IST" duration-ms="11444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEasy -->
+      </class> <!-- Testsample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
